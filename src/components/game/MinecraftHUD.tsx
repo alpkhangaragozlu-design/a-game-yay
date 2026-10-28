@@ -59,11 +59,13 @@ export const MinecraftHUD: React.FC<MinecraftHUDProps> = ({
           >
             <span className="w-2 h-2 rounded-full bg-green-400" />
             <span className="font-semibold">Click to Lock Mouse &amp; Play</span>
-            <span className="text-[#888888] text-[10px]">(ESC to release)</span>
+            <span className="text-[#a1a1a6] text-[10px]">(⎋ ESC to release)</span>
           </div>
         ) : (
-          <div className="text-[10px] text-[#ffffffaa] bg-[#00000066] px-2 py-0.5 rounded font-mono">
-            ESC to pause / view Unity editor
+          <div className="text-[10px] text-[#ffffffbb] bg-[#00000077] px-2.5 py-0.5 rounded-full font-mono flex items-center space-x-1.5 border border-[#ffffff20]">
+            <span>⎋ ESC to release cursor</span>
+            <span>·</span>
+            <span>⌘P pause</span>
           </div>
         )}
       </div>

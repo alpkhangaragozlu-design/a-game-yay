@@ -1,6 +1,6 @@
 {
-  "name": "UnityCraft - Minecraft Unity Voxel Engine",
-  "description": "A high-performance Minecraft voxel engine built with Unity Engine architecture, featuring Scene & Game views, Hierarchy, Inspector, procedural terrain, mining, crafting, and block physics.",
+  "name": "UnityCraft - Minecraft Unity Engine (macOS Edition)",
+  "description": "A high-performance Minecraft voxel engine built with Unity Engine for macOS, featuring Apple Silicon & Metal acceleration, native macOS menu bar and dock, Scene & Game views, Hierarchy, Inspector, and Standalone Mac App build support.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
