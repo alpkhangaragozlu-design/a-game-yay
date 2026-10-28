@@ -1,0 +1,6 @@
+{
+  "name": "UnityCraft - Minecraft Unity Voxel Engine",
+  "description": "A high-performance Minecraft voxel engine built with Unity Engine architecture, featuring Scene & Game views, Hierarchy, Inspector, procedural terrain, mining, crafting, and block physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
